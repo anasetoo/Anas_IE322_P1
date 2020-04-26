@@ -1,0 +1,17 @@
+C:\Users\Mustafa\Desktop\600\1741541Project\1741541Project\bin\Debug\1741541Project.exe
+C:\Users\Mustafa\Desktop\600\1741541Project\1741541Project\bin\Debug\1741541Project.pdb
+C:\Users\Mustafa\Desktop\600\1741541Project\1741541Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mustafa\Desktop\600\1741541Project\1741541Project\obj\x86\Debug\_1741541Project.Form1.resources
+C:\Users\Mustafa\Desktop\600\1741541Project\1741541Project\obj\x86\Debug\_1741541Project.Properties.Resources.resources
+C:\Users\Mustafa\Desktop\600\1741541Project\1741541Project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mustafa\Desktop\600\1741541Project\1741541Project\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mustafa\Desktop\600\1741541Project\1741541Project\obj\x86\Debug\1741541Project.exe
+C:\Users\Mustafa\Desktop\600\1741541Project\1741541Project\obj\x86\Debug\1741541Project.pdb
+C:\Users\Microsoft\Desktop\C+\1741541Project\1741541Project\1741541Project\bin\Debug\1741541Project.exe
+C:\Users\Microsoft\Desktop\C+\1741541Project\1741541Project\1741541Project\bin\Debug\1741541Project.pdb
+C:\Users\Microsoft\Desktop\C+\1741541Project\1741541Project\1741541Project\obj\x86\Debug\1741541Project.csprojAssemblyReference.cache
+C:\Users\Microsoft\Desktop\C+\1741541Project\1741541Project\1741541Project\obj\x86\Debug\_1741541Project.Form1.resources
+C:\Users\Microsoft\Desktop\C+\1741541Project\1741541Project\1741541Project\obj\x86\Debug\_1741541Project.Properties.Resources.resources
+C:\Users\Microsoft\Desktop\C+\1741541Project\1741541Project\1741541Project\obj\x86\Debug\1741541Project.csproj.GenerateResource.cache
+C:\Users\Microsoft\Desktop\C+\1741541Project\1741541Project\1741541Project\obj\x86\Debug\1741541Project.exe
+C:\Users\Microsoft\Desktop\C+\1741541Project\1741541Project\1741541Project\obj\x86\Debug\1741541Project.pdb
